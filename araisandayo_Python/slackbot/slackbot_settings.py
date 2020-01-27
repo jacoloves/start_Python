@@ -1,0 +1,6 @@
+API_TOKEN = "xoxb-391697228628-568684645156-GogtUP6K7cb8Nb0qG8nERAdf"
+
+DEFAULT_REPLAY = "ミャウ〜ミャウ〜"
+
+PLUGINS = ['plugins']
+
