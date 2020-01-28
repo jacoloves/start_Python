@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2434e079-6b99-4e0c-a952-0ae5fe96f5a8" name="Default Changelist" comment="">
+    <list default="true" id="2434e079-6b99-4e0c-a952-0ae5fe96f5a8" name="Default Changelist" comment="Python_Tutorial">
       <change afterPath="$PROJECT_DIR$/slackbot/plugin/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/slackbot/plugin/my_mention.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/slackbot/postSlack.py" afterDir="false" />
